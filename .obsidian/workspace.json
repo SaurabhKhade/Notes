@@ -11,14 +11,14 @@
             "id": "c6e3fa3c24be97f0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "AI/Vector DB.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Vector DB"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ]
@@ -99,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/Vector DB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/Vector DB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +159,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Vector DB.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -185,7 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 473.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,12 +197,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8f7a3131dc97adbf",
+  "active": "c6e3fa3c24be97f0",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-09-29 23.20.38.excalidraw.md",
-    "AI/Vector DB.md",
-    "Excalidraw",
     "Index.base",
+    "AI/Embeddings/Cosine Similarity.md",
+    "AI/Embeddings/Vector Search.md",
+    "AI/Embeddings/Semantic Similarity.md",
+    "AI/Embeddings/Embeddings.md",
+    "AI/LLM Fundamentals/Context Window.md",
+    "AI/LLM Fundamentals/Token.md",
+    "AI/LLM Fundamentals/Prompt Versioning.md",
+    "AI/LLM Fundamentals/Function or Tool Calling.md",
+    "AI/LLM Fundamentals/Temperature.md",
+    "AI/Embeddings",
+    "AI/Embeddings/Vector DB.md",
+    "AI/LLM Fundamentals",
+    "Untitled",
+    "Excalidraw/Drawing 2026-09-29 23.20.38.excalidraw.md",
+    "Excalidraw",
     "AI/AI Base.base",
     "System Design/Untitled.base",
     "System Design",

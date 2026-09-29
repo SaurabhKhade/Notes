@@ -1,0 +1,18 @@
+views:
+  - type: table
+    name: Table
+    order:
+      - Index
+      - file.name
+      - Type
+      - Status
+      - tags
+    sort:
+      - property: Index
+        direction: ASC
+      - property: Type
+        direction: ASC
+    columnSize:
+      file.name: 222
+      note.Type: 118
+      note.Status: 141
